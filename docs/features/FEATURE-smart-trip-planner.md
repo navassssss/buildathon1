@@ -1,14 +1,14 @@
 # FEATURE-SMTPL-001: Smart Trip Planner
 
 **Status:** Approved  
-**Owner:** Verifier/Finisher agent  
+**Owner:** Prior Feature Builder; see `TASK_BOARD.md` for current status  
 **Priority:** P0  
 **Last updated:** 2026-11-11  
 
 ## Traceability
 - Source mind-map node(s): MM-001.5.1.1
 - Requirement ID(s): F-STPL-001
-- Related decisions: TBD
+- Related decisions: D-20261111-buildathon-implementation
 
 ## User need and outcome
 Travelers need a central place to create, edit, schedule, and manage trips (destination, dates, activities, travel type).
@@ -21,7 +21,7 @@ Travelers need a central place to create, edit, schedule, and manage trips (dest
 - UI/UX for trip planning.
 
 ### Excluded
-- Not yet implemented.
+- Cloud sync and live third-party destination APIs; this buildathon uses local/mock data.
 
 ## User flow and states
 - **Open:** Destination selection → Date range picker → Activity list → Save trip.
