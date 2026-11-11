@@ -1,14 +1,14 @@
 # FEATURE-NEB-001: Nearby Essentials – hospitals, pharmacies, ATMs and shops
 
 **Status:** Approved  
-**Owner:** Verifier/Finisher agent  
+**Owner:** Feature module `7496140a`; see `TASK_BOARD.md`  
 **Priority:** P0  
 **Last updated:** 2026-11-11  
 
 ## Traceability
 - Source mind-map node(s): MM-001.5.1.4
 - Requirement ID(s): F-NEB-001
-- Related decisions: TBD
+- Related decisions: D-20261111-buildathon-implementation
 
 ## User need and outcome
 Help travelers find nearby hospitals, pharmacies, police stations, ATMs, restaurants, accommodation and tourist attractions.
@@ -18,7 +18,7 @@ Help travelers find nearby hospitals, pharmacies, police stations, ATMs, restaur
 - Location-based essential services lookup.
 
 ### Excluded
-- Not yet implemented.
+- External POI/map APIs and authoritative road navigation.
 
 ## User flow and states
 - Enter location → Get nearby hospitals/pharmacies/ATMs/shops/restaurants/attractions.
