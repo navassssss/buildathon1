@@ -1,7 +1,7 @@
 # FEATURE-DV-001: Document Vault – upload and organize documents
 
 **Status:** Approved  
-**Owner:** Verifier/Finisher agent  
+**Owner:** Vault implementation handoff `e45f100a`; see `TASK_BOARD.md`  
 **Priority:** P0  
 **Last updated:** 2026-11-11  
 
@@ -20,7 +20,7 @@ Provide a secure document vault for passport, visa, tickets, ID and other travel
 - Search and retrieve.
 
 ### Excluded
-- Not yet implemented.
+- Cloud upload, account sync and remote recovery.
 
 ## User flow and states
 - Browse categories → Upload file → Tag/categorize → Retrieve.
