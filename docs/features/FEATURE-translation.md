@@ -1,14 +1,14 @@
 # FEATURE-TL-001: Translation – text and camera translation
 
 **Status:** Approved  
-**Owner:** Verifier/Finisher agent  
+**Owner:** Feature module `e45f100a`; App integration `ff5fa556`  
 **Priority:** P1  
 **Last updated:** 2026-11-11  
 
 ## Traceability
 - Source mind-map node(s): MM-001.2.3 Language Assistance
 - Requirement ID(s): F-TL-001
-- Related decisions: TBD
+- Related decisions: D-20261111-buildathon-implementation
 
 ## User need and outcome
 Provide text translation, voice translation, camera-based translation of signs/menus, common local phrases, offline packs, emergency phrase generator.
@@ -23,7 +23,7 @@ Provide text translation, voice translation, camera-based translation of signs/m
 - Emergency phrase generation.
 
 ### Excluded
-- Not yet implemented.
+- External translation/OCR services; image captions use bundled sample fixtures and do not provide general OCR.
 
 ## User flow and states
 - Select language → Translate text/voice/camera content → Save pack/phrases.
