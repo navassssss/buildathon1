@@ -1,0 +1,86 @@
+# Travellers' Needs – Feature Mind Map
+
+**Source file:** travellers_needs_mindmap.opml
+**Conversion status:** Human review required
+**Converted on:** 2026-11-11
+
+- **MM-001** Travellers' Needs – Feature Mind Map
+  - **MM-001.1** Before Travel – Preparation
+    - **MM-001.1.1** Smart Packing Checklist – destination, weather, duration and travel type
+    - **MM-001.1.2** Trip Planner – destinations, dates, activities and schedules
+    - **MM-001.1.3** Document Vault – passport, visa, tickets, ID and other documents
+    - **MM-001.1.4** Travel Readiness Score – assess preparedness
+    - **MM-001.1.5** Weather Forecast – packing recommendations
+    - **MM-001.1.6** Budget Planner – estimate transport, stay, food and other costs
+    - **MM-001.1.7** Travel Reminders – tickets, check-in, visa expiry and departure
+    - **MM-001.1.8** Emergency Contacts – save contacts before departure
+  - **MM-001.2** During Travel – Navigation and Assistance
+    - **MM-001.2.1** Navigation and Discovery
+      - **MM-001.2.1.1** GPS-based navigation
+      - **MM-001.2.1.2** Nearby hospitals, pharmacies, police stations and ATMs
+      - **MM-001.2.1.3** Nearby restaurants and accommodation
+      - **MM-001.2.1.4** Tourist attractions and local points of interest
+      - **MM-001.2.1.5** Public transport information
+      - **MM-001.2.1.6** Offline maps and saved locations
+    - **MM-001.2.2** Safety and Emergency
+      - **MM-001.2.2.1** SOS emergency button
+      - **MM-001.2.2.2** Share live location with trusted contacts
+      - **MM-001.2.2.3** Country-specific emergency contact information
+      - **MM-001.2.2.4** Nearby hospitals and emergency services
+      - **MM-001.2.2.5** Medical information and allergies profile
+      - **MM-001.2.2.6** Lost-person / lost-item assistance
+      - **MM-001.2.2.7** Safe-route recommendations
+    - **MM-001.2.3** Language Assistance
+      - **MM-001.2.3.1** Text translation
+      - **MM-001.2.3.2** Voice translation
+      - **MM-001.2.3.3** Camera-based translation of signs and menus
+      - **MM-001.2.3.4** Common local phrases
+      - **MM-001.2.3.5** Offline translation packs
+      - **MM-001.2.3.6** Emergency phrase generator
+    - **MM-001.2.4** Money Management
+      - **MM-001.2.4.1** Multi-currency converter
+      - **MM-001.2.4.2** Daily expense tracker
+      - **MM-001.2.4.3** Shared group expenses
+      - **MM-001.2.4.4** Budget monitoring
+      - **MM-001.2.4.5** Expense categorization
+      - **MM-001.2.4.6** Currency exchange information
+    - **MM-001.2.5** Accommodation and Food
+      - **MM-001.2.5.1** Find nearby hotels and accommodation
+      - **MM-001.2.5.2** Discover nearby restaurants
+      - **MM-001.2.5.3** Food preference and dietary filters
+      - **MM-001.2.5.4** Local food recommendations
+      - **MM-001.2.5.5** Price comparisons
+  - **MM-001.3** Unexpected Situations
+    - **MM-001.3.1** Travel AI Assistant – contextual destination and travel help
+    - **MM-001.3.2** Lost Item Assistant – report items and identify last known location
+    - **MM-001.3.3** Offline Travel Companion – saved documents, maps and emergency information
+    - **MM-001.3.4** Local Rules Assistant – laws, customs, culture and restrictions
+    - **MM-001.3.5** Quick Essentials Finder – locate shops for urgently needed items
+    - **MM-001.3.6** Emergency Guidance – step-by-step help for common emergencies
+    - **MM-001.3.7** Travel Disruption Assistant – cancelled flights and missed connections
+  - **MM-001.4** After Travel – Journey Completion
+    - **MM-001.4.1** Trip Summary – destinations visited and journey history
+    - **MM-001.4.2** Expense Report – complete travel expense report
+    - **MM-001.4.3** Travel Journal – photographs, notes and memories
+    - **MM-001.4.4** Document Archive – organize documents for future trips
+    - **MM-001.4.5** Ratings and Reviews – review accommodation, restaurants and destinations
+    - **MM-001.4.6** Reusable Trip Templates – reuse packing lists and plans
+  - **MM-001.5** Recommended MVP – Buildathon Scope
+    - **MM-001.5.1** P0 – Core
+      - **MM-001.5.1.1** Smart Trip Planner – create and manage trips
+      - **MM-001.5.1.2** Smart Packing Checklist – dynamic checklist
+      - **MM-001.5.1.3** Document Vault – upload and organize documents
+      - **MM-001.5.1.4** Nearby Essentials – hospitals, pharmacies, ATMs and shops
+      - **MM-001.5.1.5** SOS + Location Sharing – emergency assistance
+      - **MM-001.5.1.6** Currency &amp; Expense Manager – conversion and expense tracking
+    - **MM-001.5.2** P1 – Secondary
+      - **MM-001.5.2.1** AI Travel Assistant – context-aware travel chatbot
+      - **MM-001.5.2.2** Translation – text and camera translation
+      - **MM-001.5.2.3** Offline Mode – access saved essentials
+    - **MM-001.5.3** P2 – Later
+      - **MM-001.5.3.1** Travel Journal – save travel memories
+      - **MM-001.5.3.2** Local Culture Guide – destination-specific information
+  - **MM-001.6** Three Standout Innovations
+    - **MM-001.6.1** Offline Emergency Companion – critical information accessible without internet
+    - **MM-001.6.2** Context-Aware AI Assistant – understands destination, trip plan and available resources
+    - **MM-001.6.3** Quick Essentials Finder – find nearby shops for urgently needed items
