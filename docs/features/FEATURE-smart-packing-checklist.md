@@ -1,7 +1,7 @@
 # FEATURE-SMPK-001: Smart Packing Checklist
 
 **Status:** Approved  
-**Owner:** Verifier/Finisher agent  
+**Owner:** Prior helper `ff5fa556`; see `TASK_BOARD.md` for current status  
 **Priority:** P0  
 **Last updated:** 2026-11-11  
 
@@ -19,7 +19,7 @@ Provide a dynamic packing checklist covering destination, weather, duration and 
 - Add/remove items at runtime.
 
 ### Excluded
-- Not yet implemented.
+- Live weather-provider calls; weather choices use local inputs/fixtures.
 
 ## User flow and states
 - Select destination → Load the local weather fixture → Set duration → Choose travel type → Generate checklist.
