@@ -1,14 +1,14 @@
 # FEATURE-ATA-001: AI Travel Assistant – context-aware travel chatbot
 
 **Status:** Approved  
-**Owner:** Verifier/Finisher agent  
+**Owner:** Feature module `e45f100a`; App integration `ff5fa556`  
 **Priority:** P1  
 **Last updated:** 2026-11-11  
 
 ## Traceability
 - Source mind-map node(s): MM-001.3.1; MM-001.5.2.1
 - Requirement ID(s): F-ATA-001
-- Related decisions: TBD
+- Related decisions: D-20261111-buildathon-implementation
 
 ## User need and outcome
 A contextual destination/trip plan and travel help assistant that understands the user's trip plan and available resources.
@@ -19,7 +19,7 @@ A contextual destination/trip plan and travel help assistant that understands th
 - Trip planning assistance.
 
 ### Excluded
-- Not yet implemented.
+- Live AI-provider calls and transmission of trip data.
 
 ## User flow and states
 - Enter destination → Get suggested trips/activities → Ask about weather/transport → Receive guidance.
